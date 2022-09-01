@@ -8,6 +8,8 @@
 
 ## Elevator pitch
 
+Foo bar
+
 <!-- start elevator-pitch -->
 
 - **Intentionally minimal** --- the most important thing is the content, not the scaffolding around it.
